@@ -4,5 +4,5 @@
 
 # I am interested in building IOT projects such as an automated hydroponics garden which combines my passion for gardening with automation. It has been very exciting starting from nothing to eating more salads than I ever have before 😄!! 
 
-#This is a new and exciting journey for me and I look forward to working with great people and being challenged every step of the way. 
+# This is a new and exciting journey for me and I look forward to working with great people and being challenged every step of the way. 
 
